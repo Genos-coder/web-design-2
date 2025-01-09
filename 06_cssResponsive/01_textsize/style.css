@@ -1,0 +1,6 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: clamp(1rem, 5vw ,4rem);
+}

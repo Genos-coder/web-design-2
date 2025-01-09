@@ -24,6 +24,3 @@ const reactElement = {
 };
 
 createElement(reactElement, rootContainer);
-
-1 + 1 == 2;
-1 + 1 === 2;
